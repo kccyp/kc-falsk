@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/flasktest1.iml" filepath="$PROJECT_DIR$/.idea/flasktest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pyinstaller_flask_pyechart-master.iml" filepath="$PROJECT_DIR$/.idea/pyinstaller_flask_pyechart-master.iml" />
     </modules>
   </component>
 </project>
